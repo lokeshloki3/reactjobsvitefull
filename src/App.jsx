@@ -20,7 +20,7 @@ const App = () => {
     <Route path='/' element={<MainLayout />}>
       <Route index element={<HomePage />}/>
       <Route path='/jobs' element={<JobsPage />}/>
-      <Route path='/reactjobsvite' element={<HomePage />}/>
+      <Route path='/reactjobsvitefull' element={<HomePage />}/>
       <Route path='/add-job' element={<AddJobPage addJob={addJob}/>} />
       <Route path='/edit-job/:id' element={<EditJobPage editJob={editJob}/>} />
       <Route path='/jobs/:id' element={<JobPage removeJob={removeJob}/>}/>
