@@ -1,3 +1,5 @@
+Created single-page website for job listings, with options to add a new job, view jobs, edit existing jobs with toaster notifications while maintaining their states, switch tabs, and used sessionStorage of the browser for these backend features. Created using React.js, Tailwind CSS, Router, sessionStorage.
+
 Demo - https://lokeshloki3.github.io/reactjobsvitefull/
 
 Vite Project
